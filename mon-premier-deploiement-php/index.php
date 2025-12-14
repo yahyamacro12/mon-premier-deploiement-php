@@ -2,6 +2,7 @@
 echo "<h1>🎉 Félicitations !</h1>";
 echo "<p>Mon application PHP est en ligne sur Render !</p>";
 echo "<p>Date du serveur : " . date('Y-m-d H:i:s') . "</p>";
+echo "<p>Version : 1.0.1</p>";
 
 // Test de connexion à une base de données (optionnel)
 if (getenv('DATABASE_URL')) {

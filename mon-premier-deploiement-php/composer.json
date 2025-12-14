@@ -1,0 +1,6 @@
+{
+    "name": "votre-nom/mon-premier-deploiement",
+    "require": {
+        "php": ">=8.0"
+    }
+}
